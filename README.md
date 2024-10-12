@@ -1,0 +1,1 @@
+# plugins-pj-news-ticker
