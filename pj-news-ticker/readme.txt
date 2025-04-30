@@ -2,7 +2,7 @@
 Contributors: nicolasmontigny, pauljura
 Tags: marquee, news ticker, jQuery news ticker, news headlines
 Requires at least: 4.6
-Tested up to: 6.7.0
+Tested up to: 6.8.0
 Stable tag: trunk
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
@@ -73,6 +73,9 @@ If you want to add this somewhere else on your site, like header, footer, sideba
 2. Settings
 
 == Changelog ==
+= 1.9.8 =
+* Tested with WordPress 6.8.0
+
 = 1.9.7 =
 * Tested with WordPress 6.7.0
 

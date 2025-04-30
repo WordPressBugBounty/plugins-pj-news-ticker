@@ -3,7 +3,7 @@
 Plugin Name: PJ News Ticker
 Plugin URI:  https://wordpress.org/plugins/pj-news-ticker/
 Description: PJ News Ticker is a small plugin that shows your most recent posts in a marquee style.
-Version:     1.9.7
+Version:     1.9.8
 Author:      Paul Jura & Nicolas Montigny
 Author URI:  https://primitiv.media/
 License:     GPL3
@@ -28,7 +28,7 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-define('PJNT_VERSION', '1.9.7');
+define('PJNT_VERSION', '1.9.8');
 
 /**
  * Static class available for cbn mvontent and admin pages
